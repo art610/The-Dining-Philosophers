@@ -1,3 +1,3 @@
 # Multithreading Base
 
-Learning multithreading programming on C and Python3
+Learning multithreading programming on Python3
