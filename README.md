@@ -1,3 +1,2 @@
-# Multithreading Base
+# The Dining Philosophers Task from Leetcode
 
-Базовые задачи по многопоточному/многопроцессному программированию на Python и C.
